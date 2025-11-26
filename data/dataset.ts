@@ -1028,11 +1028,11 @@ export const RAW_CSV_DATA = `Serial No.,Name,Guardian's Name,OldWard No/ House N
 #1026,Simon,Vareeth,033/675,Melitt,M / 62,SEC016834604,1
 #1027,Jesinda,Simon,033/675,Melitt,F / 58,SEC016834605,1
 #1028,Lijo,Simon,033/675,Melitt,M / 33,SEC016834882,1
-#1029,Abdulla T M,Muhammed,033/676,Theruvath House,Thasbeeh Villa,M / 70,SEC016835072,1
+#1029,Abdulla T M,Muhammed,033/676,Theruvath House Thasbeeh Villa,M / 70,SEC016835072,1
 #1030,Hajara,Abdulla T M,033/676,Theruvarh,F / 65,SEC045362930,1
 #1031,Francis,Anthony,033/676,Pulikkal,M / 64,SEC016834899,1
 #1032,Anshaj T A,Abdulla T M,033/676,Theruvath,M / 41,SEC045362929,1
-#1033,Ajnas T A,Abdulla T M,033/676,Theruvath House, Thasbeeh Villa,M / 33,SEC016835071,1
+#1033,Ajnas T A,Abdulla T M,033/676,Theruvath House Thasbeeh Villa,M / 33,SEC016835071,1
 #1034,Plessy Francis,Francis P A,033/676,Pulikkan,F / 31,SEC016834974,1
 #1035,Kochappan,Antony,033/677,Cheenan,M / 75,SEC016834869,1
 #1036,Rita,Kochappan,033/677,Cheenan,F / 67,SEC016834870,1
@@ -3600,7 +3600,7 @@ export const RAW_CSV_DATA = `Serial No.,Name,Guardian's Name,OldWard No/ House N
 #1133,SREELAKSHMI K,SANTHOSH KUMAR K,032/504,KARUMATHIL HOUSE,F / 18,SEC051239952,3
 #1134,SHAJU K ALBERT,ALBERT,032/1375,KATTOOKKARAN,M / 63,SEC051240022,3
 #1135,PREETHA GEORGE,SHAJU K ALBERT,032/1375,KATTOOKKARAN,F / 56,SEC051240023,3
-#1136,JEFF VARGHESE,VARGHESE P J,032/1385,Paliakkara house, P.O Chiyyaram,M / 23,SEC051240001,3
+#1136,JEFF VARGHESE,VARGHESE P J,032/1385,Paliakkara house P.O Chiyyaram,M / 23,SEC051240001,3
 #1137,IRENE SABU,SABU JOSE,032/1401,KUTTIKATTU,F / 19,SEC051240021,3
 #1138,SANJO JOY,JOY P D,032/1418,PAYYAPPILLY KOLUVAN,M / 27,SEC051240015,3
 #1139,T S VICTOR GEORGE,SHIBU GEORGE,032/1439,THATTIL,M / 20,SEC051240039,3
@@ -4548,7 +4548,7 @@ export const RAW_CSV_DATA = `Serial No.,Name,Guardian's Name,OldWard No/ House N
 #862,Ammu,Kochunni,031/251,Thekkepurakkal,F / 87,SEC015802778,4
 #863,Santhosh,Ammu,031/251,Thekkepurakkal,M / 48,SEC015802779,4
 #864,Preetha,Suresh,031/251,Thekkepurakkal,F / 47,SEC015802780,4
-#865,Bindhu,Unnikkri,shnan,031/251,Thekkepuraykkal,F / 42,SEC015802781,4
+#865,Bindhu,Unnikkrishnan,031/251,Thekkepuraykkal,F / 42,SEC015802781,4
 #866,Vinitha,Santhosh,031/251,Chiyyarath Thekkepurakkal,F / 38,SEC015803423,4
 #867,NISHITHA,Suresh,031/251,Chiyyarath,F / 27,SEC022011419,4
 #868,Anjali C U,Unnikrishnan,031/251,Chiyyarath thekkepurakkal,F / 24,SEC045362453,4
@@ -5074,8 +5074,8 @@ export const RAW_CSV_DATA = `Serial No.,Name,Guardian's Name,OldWard No/ House N
 #1388,Jaijo Jose,Jose M V,032/301,Maliyekkal Mukkattukarakkaran,M / 24,SEC051240125,4
 #1389,Staijo Jose,Jose M V,032/301,Maliyekkal Mukkattukarakkaran,M / 23,SEC051240124,4
 #1390,Sandra Maliyakel,Pauly M V,032/304,Maliyekkal Mukkattukarakkaran,F / 21,SEC051240119,4
-#1391,Amit Kumar pal,Chhabi Pal,032/3211,Pal House, 321/1,M / 44,SEC051240172,4
-#1392,Chhabi patra,Amit Kumar pal,032/3211,Pal House, 321/1,F / 31,SEC051240174,4
+#1391,Amit Kumar pal,Chhabi Pal,032/3211,Pal House 321/1,M / 44,SEC051240172,4
+#1392,Chhabi patra,Amit Kumar pal,032/3211,Pal House 321/1,F / 31,SEC051240174,4
 #1393,Eva Tony,Tony Chacko,032/330,PALATHINGAL HOUSE,F / 22,SEC051240202,4
 #1394,Lincy Mariya Leon,Leon,032/335,Pottakkal,F / 21,SEC051240126,4
 #1395,Davis,Bijoy Davis,032/358,Arangasseri,M / 69,SEC051240183,4
@@ -6218,7 +6218,7 @@ export const RAW_CSV_DATA = `Serial No.,Name,Guardian's Name,OldWard No/ House N
 #1119,Roy Varghese,Varghese,031/906,Veerammbully,M / 32,SEC015541580,5
 #1120,christy sussanna,paulson,031/906,kodankandath,F / 25,SEC046874988,5
 #1121,alphin,paulson,031/906,kodanmkandath,M / 23,SEC046874989,5
-#1122,Kochuthresia,Thoma,s,031/908,Chemmannoor,F / 83,SEC015541307,5
+#1122,Kochuthresia,Thomas,031/908,Chemmannoor,F / 83,SEC015541307,5
 #1123,Thomas,Raphel,031/908,Chemmannoor,M / 59,SEC015541308,5
 #1124,Julie,Thomas,031/908,Chemmannoor,F / 48,SEC015541309,5
 #1125,Tina Thomas,Thomas,031/908,Chemmannur,F / 28,SEC015541686,5
