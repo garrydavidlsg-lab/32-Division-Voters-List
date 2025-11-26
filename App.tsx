@@ -275,7 +275,7 @@ export default function App() {
                   {currentData.map((voter, idx) => (
                     <tr key={`${voter.secId}-${idx}`} className="hover:bg-gray-50 transition-colors">
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500 font-mono">
-                        #{voter.serialNo}
+                        {voter.serialNo}
                       </td>
                       <td className="px-6 py-4 whitespace-nowrap">
                         <div className="flex items-center">
